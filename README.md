@@ -8,6 +8,8 @@ pip install pandas matplotlib seaborn openpyxl
 
 * `app.py`
 * `base_ev.xlsx` (arquivo Excel utilizado)
+* [Copy of base_ev.xlsx](https://github.com/user-attachments/files/28565056/Copy.of.base_ev.xlsx)
+
 
 ## Executar
 
